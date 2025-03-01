@@ -1,5 +1,5 @@
 # **Artem Klibaner**
-Rishon LeZion, Israel | [LinkedIn](https://www.linkedin.com/in/artempm/) | [ArtemPM.com](https://www.artempm.com/)
+Rishon LeZion, Israel 
 
 ---
 
@@ -96,8 +96,6 @@ I focused on Statistics and Research Methodology, learning quantitative analysis
 - **Certifications (Optional)**  
   - If I have any relevant courses (e.g., Product Management from Product School, Google Analytics IQ), I would list them here.
 
-- **Volunteering / Community (Optional)**  
-  - I may include details about any relevant volunteer work, hackathons, or community events I have participated in.
 
 I look forward to contributing my blend of technical, research, and communication skills to deliver impactful and data-driven products in a collaborative environment.
 
